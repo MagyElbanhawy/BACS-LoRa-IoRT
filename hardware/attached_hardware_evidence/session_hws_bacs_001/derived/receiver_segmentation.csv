@@ -1,0 +1,75 @@
+row_index,event,seq,device_uptime_ms,rssi_dbm,treatment
+0,RX,30,2196963,-36,excluded: earlier test transmission
+1,RX,31,2207937,-37,excluded: earlier test transmission
+2,RX,31,2207958,-37,excluded: earlier test transmission
+3,RX,1,2276490,-37,excluded: earlier test transmission
+4,RX,2,2287514,-37,excluded: earlier test transmission
+5,RX,3,2298489,-37,excluded: earlier test transmission
+6,RX,4,2309511,-37,excluded: earlier test transmission
+7,RX,1,2372691,-37,excluded: earlier test transmission
+8,RX,2,2383716,-37,excluded: earlier test transmission
+9,RX,3,2394731,-37,excluded: earlier test transmission
+10,RX,4,2405748,-37,excluded: earlier test transmission
+11,RX,1,2504902,-40,counted: first reception in session
+12,RX,2,2515875,-39,counted: first reception in session
+13,RX,3,2526896,-39,counted: first reception in session
+14,RX,4,2537917,-39,counted: first reception in session
+15,RX,5,2548946,-39,counted: first reception in session
+16,RX,6,2559961,-40,counted: first reception in session
+17,RX,7,2570934,-39,counted: first reception in session
+18,RX,8,2581956,-39,counted: first reception in session
+19,RX,9,2592972,-39,counted: first reception in session
+20,RX,10,2604001,-40,counted: first reception in session
+21,RX,10,2604022,-40,excluded: receiver double report
+22,RX,11,2615021,-39,counted: first reception in session
+23,RX,12,2625993,-37,counted: first reception in session
+24,RX,13,2637011,-38,counted: first reception in session
+25,RX,14,2648030,-39,counted: first reception in session
+26,RX,15,2659053,-37,counted: first reception in session
+27,RX,16,2670068,-37,counted: first reception in session
+28,RX,16,2670088,-37,excluded: receiver double report
+29,RX,17,2681091,-37,counted: first reception in session
+30,RX,17,2681111,-37,excluded: receiver double report
+31,RX,18,2692063,-37,counted: first reception in session
+32,RX,19,2703092,-37,counted: first reception in session
+33,RX,20,2714121,-37,counted: first reception in session
+34,RX,21,2725136,-37,counted: first reception in session
+35,RX,21,2725157,-37,excluded: receiver double report
+36,RX,22,2736159,-37,counted: first reception in session
+37,RX,23,2747129,-37,counted: first reception in session
+38,RX,24,2758167,-38,counted: first reception in session
+39,RX,24,2758188,-38,excluded: receiver double report
+40,RX,25,2769192,-37,counted: first reception in session
+41,RX,26,2780167,-37,counted: first reception in session
+42,RX,27,2791190,-37,counted: first reception in session
+43,RX,28,2802201,-37,counted: first reception in session
+44,RX,29,2813221,-37,counted: first reception in session
+45,RX,29,2813241,-37,excluded: receiver double report
+46,RX,30,2824241,-37,counted: first reception in session
+47,RX,31,2835265,-37,counted: first reception in session
+48,RX,32,2846241,-37,counted: first reception in session
+49,RX,33,2857269,-37,counted: first reception in session
+50,RX,34,2868294,-36,counted: first reception in session
+51,RX,35,2879313,-37,counted: first reception in session
+52,RX,36,2890332,-37,counted: first reception in session
+53,RX,37,2901302,-37,counted: first reception in session
+54,RX,38,2912322,-37,counted: first reception in session
+55,RX,39,2923349,-36,counted: first reception in session
+56,RX,40,2934332,-37,counted: first reception in session
+57,RX,41,2945363,-37,counted: first reception in session
+58,RX,41,2945383,-37,excluded: receiver double report
+59,RX,42,2956383,-37,counted: first reception in session
+60,RX,42,2956403,-37,excluded: receiver double report
+61,RX,43,2967398,-36,counted: first reception in session
+62,RX,44,2978421,-37,counted: first reception in session
+63,RX,45,2989436,-37,counted: first reception in session
+64,RX,46,3000410,-37,counted: first reception in session
+65,RX,47,3011438,-37,counted: first reception in session
+66,RX,48,3022454,-36,counted: first reception in session
+67,RX,49,3033478,-36,counted: first reception in session
+68,RX,50,3044451,-37,counted: first reception in session
+69,RX,51,3055477,-37,counted: first reception in session
+70,RX,52,3066504,-37,counted: first reception in session
+71,RX,53,3077496,-37,counted: first reception in session
+72,RX,54,3088509,-37,counted: first reception in session
+73,CORRUPT_RX,2372327454,5046984,-118,excluded: noise/corrupt frame

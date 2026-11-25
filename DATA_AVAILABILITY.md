@@ -10,9 +10,13 @@ The current public reproducibility package provides the simulation datasets, ana
 
 ## Hardware (physical two-robot ROS 2 platform with LoRa communication)
 
-- **Session HWS-BACS-001**: `hardware/attached_hardware_evidence/session_hws_bacs_001/` — transmitter and receiver serial logs, scheduler decisions, host clock records, manifests and SHA-256 checksums.
+- **Session HWS-BACS-001**: `hardware/attached_hardware_evidence/session_hws_bacs_001/` — transmitter and receiver serial logs, scheduler decisions, host clock records, manifests and SHA-256 checksums; the receiver segmentation table is in `derived/receiver_segmentation.csv`.
 - **Photographs and videos**: `hardware/hardware_media/` (audio-free public copies of the videos; originals are preserved by the authors). Captions are in `hardware/README.md`.
 - **Historical hardware datasets**: historical hardware raw records are not included in this release; see `docs/HISTORICAL_DATASETS.md`.
+
+## Manuscript tables and figures
+
+`scripts/make_manuscript_tables_figures.py` regenerates every number, table and data figure of Sections 5 and 6 from the files above and writes them to `results/manuscript_v15/` (`stats.json`, `table_*.csv`, `figures/`).
 
 ## Software
 

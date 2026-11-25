@@ -101,6 +101,9 @@ run=runs/v15/409d1b1da6673e913e2fee281b74ecc422f7bb1fe2e29d9f90da710cf8d55213
 python scripts/confirmation_v15.py "$run"
 python scripts/analyze_v15.py "$run"
 
+# All tables, statistics and data figures of Sections 5-6 of the manuscript
+python scripts/make_manuscript_tables_figures.py   # -> results/manuscript_v15/
+
 # Full rerun of both pre-specified blocks (about 2.5 h on 12 workers)
 python3 scripts/run_v15.py --workers 12
 
