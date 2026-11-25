@@ -1,0 +1,9 @@
+{
+  "session_id": "HWS-BACS-001",
+  "role": "receiver",
+  "duration_s": 1000,
+  "serial_dev": "/dev/ttyACM0",
+  "serial_baud": 115200,
+  "robot": "LIMO-02",
+  "started_at": "2026-11-20T17:44:59Z"
+}

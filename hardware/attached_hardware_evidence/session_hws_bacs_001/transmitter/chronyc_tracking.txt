@@ -1,0 +1,8 @@
+=== chronyc tracking (before run) ===
+captured_at: 2026-11-20T17:45:14Z
+
+ERROR: __init__() got an unexpected keyword argument 'capture_output'
+
+=== System clock ===
+date_utc: 2026-11-20T17:45:14Z
+epoch_ns: 1795196714427698944

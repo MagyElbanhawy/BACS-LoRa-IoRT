@@ -1,0 +1,22 @@
+=== chronyc tracking (before run) ===
+captured_at: 2026-11-20T17:44:58.921265410Z
+
+WARNING: neither chronyc nor ntpq is available.
+The clock is not synchronized to an external reference.
+
+=== /etc/chrony/chrony.conf ===
+not found
+
+=== /etc/ntp.conf ===
+not found
+
+=== System clock ===
+date_utc: 2026-11-20T17:44:59.037326024Z
+date_local: Fri Nov 20 07:44:59 PM EET 2026
+               Local time: Fri 2026-11-20 19:44:59 EET
+           Universal time: Fri 2026-11-20 17:44:59 UTC
+                 RTC time: Fri 2026-11-20 17:44:58
+                Time zone: Africa/Cairo (EET, +0200)
+System clock synchronized: yes
+              NTP service: active
+          RTC in local TZ: no

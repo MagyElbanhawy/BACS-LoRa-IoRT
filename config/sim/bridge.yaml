@@ -1,0 +1,9 @@
+experiment: bridge
+seeds: [100, 129]
+team_sizes: [2, 3, 4, 5]
+conditions: [L0, L1, L2, L3]
+session_s: 480
+policies: [emrmf_published, emrmf_drift, fifo_defer, random, bacs_gated, plus_0.30_6]
+primary_comparison: [plus_0.30_6, emrmf_published]
+independent_unit: seed
+aggregation: mean paired difference within seed

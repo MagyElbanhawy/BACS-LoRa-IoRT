@@ -1,0 +1,36 @@
+{
+  "experiment": "confirmation",
+  "source_revision": "9ae6805",
+  "source_snapshot": "409d1b1da6673e913e2fee281b74ecc422f7bb1fe2e29d9f90da710cf8d55213",
+  "config_path": "config/sim/v15.json",
+  "config_sha256": "b164637e019aabd05c9ca7a9491eb3a20e0cd0b28dbf82579983bf87c3323008",
+  "seeds_inclusive": [
+    70,
+    99
+  ],
+  "team_sizes": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "conditions": [
+    "C0",
+    "C1",
+    "C2",
+    "C3"
+  ],
+  "arms": [
+    "fifo",
+    "lifo",
+    "random",
+    "bacs_gated",
+    "plus_0.30_6"
+  ],
+  "cell_count": 480,
+  "analysis_inputs": "analysis_inputs.json",
+  "execution_command": "python3 scripts/run_v15.py --workers 12",
+  "first_cell_written_utc": "2026-11-23T11:19:39.916075+00:00",
+  "last_cell_written_utc": "2026-11-23T12:07:56.747081+00:00",
+  "seconds_between_first_and_last_cell_write": 2896.8310058116913
+}

@@ -1,0 +1,9 @@
+experiment: temporal_decay
+seeds: [10, 39]
+team_sizes: [2, 3, 4, 5]
+conditions: [C0]
+session_s: 720
+policies: [deferral_derived, fixed_0.003, drift_derived, drift_adaptive, deferral_adaptive]
+primary_comparison: [deferral_derived, fixed_0.003]
+independent_unit: seed
+equivalence_bounds: [0.90, 1.10]

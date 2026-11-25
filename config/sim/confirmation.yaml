@@ -1,0 +1,10 @@
+experiment: confirmation
+seeds: [70, 99]
+team_sizes: [2, 3, 4, 5]
+conditions: [C0, C1, C2, C3]
+session_s: 480
+policies: [fifo, random, bacs_gated, plus_0.30_6]
+primary_comparison: [plus_0.30_6, random]
+independent_unit: seed
+aggregation: mean paired difference and mean paired log ratio within seed
+equivalence_bounds: [0.90, 1.10]

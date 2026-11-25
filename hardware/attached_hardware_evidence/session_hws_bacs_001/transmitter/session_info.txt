@@ -1,0 +1,33 @@
+=== BACS-ROS2-SLAM Session Info ===
+session_id: HWS-BACS-001
+role: transmitter
+policy: FIFO
+started_at: 2026-11-20T17:45:14Z
+duration_s: 600.0
+tx_period_s: 11.0
+constraint_seed: 42
+constraint_period_s: 2.0
+
+=== Host ===
+hostname: oneai-desktop
+uname: Linux oneai-desktop 4.9.140-tegra #1 SMP PREEMPT Fri Sep 24 17:37:07 HKT 2021 aarch64
+python: 3.6.9 (default, Jul 17 2020, 12:50:27)  [GCC 8.4.0]
+platform: Linux-4.9.140-tegra-aarch64-with-Ubuntu-18.04-bionic
+
+=== Serial ===
+serial_dev: /dev/ttyACM0
+serial_baud: 115200
+
+=== Radio ===
+frequency_mhz: 868.0
+tx_power_dbm: 14
+spreading_factor: 7
+bandwidth_hz: 125000
+coding_rate: 4/5
+payload_bytes: 52
+
+=== Git ===
+git_commit: e568b6d3e6b97dcdb19c16ba0f2189b7630c95c4
+
+=== CPU ===
+model name	: ARMv8 Processor rev 1 (v8l)

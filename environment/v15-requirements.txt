@@ -1,0 +1,6 @@
+# Analysis and simulator versions in the v15 WSL execution (Python 3.10.12).
+numpy==1.26.4
+scipy==1.14.1
+pandas==2.3.3
+matplotlib==3.10.9
+python-docx==1.2.0

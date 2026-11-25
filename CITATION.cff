@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, simulation framework or datasets in your research, please cite the associated manuscript."
+title: "BACS: Scheduling Inter-Robot Constraints for Multi-Robot Map Fusion over Duty-Cycle-Limited LoRa Links"
+abstract: "BACS and BACS+ are transmitter-side schedulers for inter-robot constraints sent over duty-cycle-limited LoRa links. BACS predicts each candidate's arrival age from the airtime queue, admits candidates by predicted server-side trust, and ranks them by surrogate information weighted by predicted freshness per unit airtime; BACS+ adds a pairwise coverage term. The repository contains the simulator, the reported simulation runs, analysis scripts, tests, the ROS 2 workspace, LoRa firmware and the link-level hardware session HWS-BACS-001."
+type: software
+version: 1.5.3
+date-released: 2026-11-25
+license: MIT
+authors:
+  - name: "Author(s) redacted for double-anonymous review"
+preferred-citation:
+  type: article
+  title: "Scheduling Inter-Robot Constraints for Multi-Robot Map Fusion over Duty-Cycle-Limited LoRa Links"
+  journal: "Journal of King Saud University - Computer and Information Sciences"
+  year: 2026
+  status: submitted
+  authors:
+    - name: "Author(s) redacted for double-anonymous review"

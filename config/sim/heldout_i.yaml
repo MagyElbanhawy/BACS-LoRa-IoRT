@@ -1,0 +1,6 @@
+experiment: heldout_i_baselines
+seeds: [10, 39]
+team_sizes: [2, 3, 4, 5]
+conditions: [C0]
+session_s: 480
+policies: [fifo, lifo, trust_only, random, info_only, bacs, bacs_plus]

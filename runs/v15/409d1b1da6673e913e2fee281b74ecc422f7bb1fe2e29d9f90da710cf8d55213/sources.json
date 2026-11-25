@@ -1,0 +1,20 @@
+{
+  "config/sim/v15.json": "b164637e019aabd05c9ca7a9491eb3a20e0cd0b28dbf82579983bf87c3323008",
+  "paper_results/revision/ranking_v2_c0c3/pilot_tdefer.csv": "a51242d5dac420e91da379beede447a925c87b5efa6a175f740630b0af2b0e30",
+  "scripts/run_v15.py": "3c72c7c5ac448307b956f04b4f4c1c09a28f010d297da5f850e1e227e6b6432e",
+  "scripts/revision/run_emrmf_bridge_v2.py": "4bb03436dfa6920ea6d9cd9c57ef9cd1fc45976abe8981672372d8db20902c8e",
+  "bacs_sim/__init__.py": "5c1e58da3d83573a988d1d35107408d8615e3e31d14b40b58a4a99dd809b7071",
+  "bacs_sim/agents.py": "f30423e5b63bb76c1c857dc989004acd5f48cf88d9d92414be6a569f8a591f85",
+  "bacs_sim/config.py": "3e647928e64c74223d66c96d7ff3931f9b6f94ee89a5f25960b49bd85ff2ec94",
+  "bacs_sim/experiments.py": "a30e7f8d0eb9569391057e949af22795455309ab72a6a207bb2b14d5e1c6e7bf",
+  "bacs_sim/infogain.py": "3868fd041b06e35d454f393fcebc074fcca9e958ac68e07267c97568894921a5",
+  "bacs_sim/lora.py": "26198e48be5dbb69ab8160d35d4a7a5b9bcbd1d5ac9c3868021ed561fb5ad97d",
+  "bacs_sim/manuscript_algorithm.py": "71a5afcf6d64d785f2f6eb01e3e19485565ae2da5a59ce82433a1520f85936d8",
+  "bacs_sim/model.py": "7fa0379cab7f76ee6010f95920f04986884d8c26085a21e7255f9a86c0aa40ef",
+  "bacs_sim/observability.py": "51deb3dc4f3310b65a22ff6c14761054dfc046b6c1f20a7d4192daea764d72e4",
+  "bacs_sim/posegraph.py": "043f933c642736f938cc3d506ace02ce379bb2d6ad14bad91edea68e92345e86",
+  "bacs_sim/schedulers.py": "87b4e2ea024e705235693a0c317d505f902d7ba42b2827486757f9b3ebfb7f72",
+  "bacs_sim/simulator.py": "f1aac6762ceb37b360d09e7afccfd70da47d70e5b4191a0f7e8fe33cca266f81",
+  "bacs_sim/trust.py": "47f74cc0a93caed31c2c599f6b5bba79caa6c49e2cdd2629106832fccd9c4d50",
+  "bacs_sim/world.py": "71060f70618ccdae8aaa3520e680d60c0a06364507a2e0c5262d3ae8c45cb882"
+}

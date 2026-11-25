@@ -1,0 +1,6 @@
+experiment: heldout_ii_stress_and_gate
+seeds: [40, 69]
+team_sizes: [2, 3, 4, 5]
+conditions: [C0, C1, C2, C3]
+session_s: 480
+policies: [fifo, lifo, trust_only, random, bacs, bacs_plus, tw_now, tw_arrival]

@@ -1,0 +1,42 @@
+=== BACS-ROS2-SLAM Session Info ===
+session_id: HWS-BACS-001
+role: receiver
+started_at: 2026-11-20T17:44:58Z
+duration_s: 1000
+
+=== Host ===
+hostname: DESKTOP-SN4FFSO
+uname: Linux DESKTOP-SN4FFSO 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+
+=== ROS 2 ===
+ros_distro: humble
+ros_version: 2
+ament_prefix_path: /home/magy/GitHub/BACS-ROS2-SLAM/install/bacs_scheduler:/home/magy/GitHub/BACS-ROS2-SLAM/ros2_ws/install/ydlidar_ros2_driver:/home/magy/GitHub/BACS-ROS2-SLAM/ros2_ws/install/limo_base:/home/magy/GitHub/BACS-ROS2-SLAM/ros2_ws/install/limo_msgs:/home/magy/GitHub/BACS-ROS2-SLAM/ros2_ws/install/limo_description:/home/magy/GitHub/BACS-ROS2-SLAM/ros2_ws/install/limo_car:/home/magy/GitHub/BACS-ROS2-SLAM/ros2_ws/install/bacs_scheduler:/opt/ros/humble
+
+=== Serial ===
+serial_dev: /dev/ttyACM0
+serial_baud: 115200
+robot: LIMO-02
+
+=== Git ===
+git_commit: 982be2e95e74a153c8410da9328899ce43141836
+git_branch: demo/five-robot-gazebo-rviz-2026
+git_dirty: 70 files modified
+git_remote: https://github.com/MagyElbanhawy/BACS-ROS2-SLAM.git
+
+=== Disk ===
+/dev/sdd       1007G   29G  928G   3% /
+
+=== Python ===
+Python 3.10.12
+pyserial: 3.5
+
+=== CPU ===
+CPU(s):                               16
+On-line CPU(s) list:                  0-15
+Model name:                           Intel(R) Core(TM) i9-10885H CPU @ 2.40GHz
+NUMA node0 CPU(s):                    0-15
+
+=== Memory ===
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       379Mi        14Gi       4.0Mi       203Mi        14Gi

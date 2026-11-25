@@ -1,0 +1,24 @@
+{
+  "session_id": "HWS-BACS-001",
+  "role": "transmitter",
+  "policy": "FIFO",
+  "duration_s": 600.0,
+  "tx_period_s": 11.0,
+  "seed": 42,
+  "trust_threshold": 0.0,
+  "serial_dev": "/dev/ttyACM0",
+  "serial_baud": 115200,
+  "radio": {
+    "frequency_mhz": 868.0,
+    "tx_power_dbm": 14,
+    "spreading_factor": 7,
+    "bandwidth_hz": 125000,
+    "coding_rate": "4/5",
+    "preamble_length": 8,
+    "payload_bytes": 52
+  },
+  "packets_transmitted": 54,
+  "constraints_generated": 300,
+  "started_at": "2026-11-20T17:55:14Z",
+  "finished_at": "2026-11-20T17:55:14Z"
+}

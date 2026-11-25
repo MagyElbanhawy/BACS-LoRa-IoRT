@@ -1,0 +1,5 @@
+experiment: development
+seeds: [0, 9]
+team_sizes: [2, 3, 4, 5]
+purposes: [surrogate_fidelity, trust_weight_selection, residual_gate_calibration]
+must_not_use_for: [confirmation, bridge]

@@ -1,0 +1,8 @@
+{
+  "session_s": 480, "team_sizes": [2,3,4,5],
+  "confirmation": {"seeds": [70,99], "conditions":["C0","C1","C2","C3"], "arms":["fifo","lifo","random","bacs_gated","plus_0.30_6"]},
+  "bridge": {"seeds":[100,129], "conditions":["L0","L1","L2","L3"], "arms":["emrmf_published","emrmf_drift","fifo_defer","lifo","random","bacs_gated","plus_0.30_6"]},
+  "pilot_sha256":"a51242d5dac420e91da379beede447a925c87b5efa6a175f740630b0af2b0e30",
+  "calibration":"median packet deferral, fallback to arithmetic packet mean when median is zero; L0-L3 use C0",
+  "payload_bytes":52
+}
